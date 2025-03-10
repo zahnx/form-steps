@@ -10,7 +10,7 @@ This simple project is to showcase the proper use of children props to create a 
 - React
   
 ## Live Demo
-🔗 **[View Form Steps Live](form-steps-zahn.vercel.app)**  
+🔗 **[View Form Steps Live](https://form-steps-zahn.vercel.app/)**  
 
 ## Notes
 - The children prop allow us **to pass JSX into an element** (besides regular props)
